@@ -9,4 +9,4 @@
    Em fim, este projeto utiliza auxílio da Inteligência Artificial (IA) com Scikit – Learn, treinada com um conjunto de dados, para prever se é seguro ou não o lançamento do foguete. A decisão final só autoriza a decolagem, quando a previsão da IA indica lançamento permitido e a análise energética retorna energia suficiente; 
  caso contrário, o lançamento é negado.
 
-   Tecnologias e bibliotecas usadas (árvore de decisão).  Saída do sistema telemetria em tabela, relatório de energia e mensagem final de autorização ou cancelamento do lançamento.
+   Tecnologias e bibliotecas usadas (árvore de decisão).  Saída do sistema de telemetria em tabela, relatório de energia e mensagem final de autorização ou cancelamento do lançamento.
