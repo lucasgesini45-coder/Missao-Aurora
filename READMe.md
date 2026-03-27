@@ -1,6 +1,6 @@
  # MISSÃO AURORA SINGER -  Descrição do projeto
  
-   A MISSÃO AURORA SINGER é um projeto em PYTHON que simula o projeto de checagem e autorização que regula o lançamento de um foguete. O sistema executa uma serie de 
+   A MISSÃO AURORA SINGER é um projeto em PYTHON que simula o projeto de checagem e autorização, que regula o lançamento de um foguete. O sistema executa uma serie de 
  verificações pré-decolagem, gera telemetria simulada (temperaturas, energia, pressão, integridade e status de módulos) utilizando valores aleatórios, que são apresentadoS em tabelas com Pandas, para facilitar a leitura.
 	 
    Além da telemetria, o projeto faz uma análise energética estimando a capacidade total,  carga atual, perdas, energia disponível, consumo na decolagem e autonomia. 
