@@ -66,12 +66,19 @@ pip install -r requirements.txt
 python main.py
 
 📁 Estrutura Sugerida
+
 aurora-siger/
+
 ├── main.Ipynb
+
 ├── telemetria.ipynb
+
 ├── energia.ipynb
+
 ├── ia_modelo.ipynb
+
 ├── requirements.txt
+
 └── README.md
 
 🎯 Objetivo
