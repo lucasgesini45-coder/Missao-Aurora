@@ -78,7 +78,7 @@ Temperatura Externa: 16°C
 
 Energia: 95%
 
-Pressão: 95%
+Pressão: 4
 
 Integridade: 1
 
