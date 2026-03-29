@@ -74,7 +74,7 @@ Telemetria:
 
 Temperatura Interna: 22°C
 
-Temperatura Externa: -5°C
+Temperatura Externa: 16°C
 
 Energia: 87%
 
