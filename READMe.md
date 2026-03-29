@@ -76,7 +76,7 @@ Temperatura Interna: 22°C
 
 Temperatura Externa: 16°C
 
-Energia: 87%
+Energia: 95%
 
 Pressão: 95%
 
